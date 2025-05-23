@@ -103,6 +103,7 @@ body {
     padding: 3rem 4rem;
     background-color: var(--White);
     border-radius: 0.6rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 .box--heading{
     font-size: 1.8rem;
